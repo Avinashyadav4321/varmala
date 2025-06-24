@@ -1,1 +1,1 @@
-web: gunicorn varmala.wsgi:application
+web: gunicorn Website.wsgi:application

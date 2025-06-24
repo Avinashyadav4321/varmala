@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="wpOceans">
+    <link rel="shortcut icon" href="{% static 'images/varmala-logo.png' %}" type="image/x-icon">
+    <title>Varmala Events</title>
+    <link href="{% static 'css/themify-icons.css' %}" rel="stylesheet">
+    <link href="{% static 'css/font-awesome.min.css' %}" rel="stylesheet">
+    <link href="{% static 'css/flaticon.css' %}" rel="stylesheet">
+    <link href="{% static 'css/bootstrap.min.css' %}" rel="stylesheet">
+    <link href="{% static 'css/animate.css' %}" rel="stylesheet">
+    <link href="{% static 'css/owl.carousel.css' %}" rel="stylesheet">
+    <link href="{% static 'css/owl.theme.css' %}" rel="stylesheet">
+    <link href="{% static 'css/slick.css' %}" rel="stylesheet">
+    <link href="{% static 'css/slick-theme.css' %}" rel="stylesheet">
+    <link href="{% static 'css/swiper.min.css' %}" rel="stylesheet">
+    <link href="{% static 'css/nice-select.css' %}" rel="stylesheet">
+    <link href="{% static 'css/owl.transitions.css' %}" rel="stylesheet">
+    <link href="{% static 'css/jquery.fancybox.css' %}" rel="stylesheet">
+    <link href="{% static 'css/odometer-theme-default.css' %}" rel="stylesheet">
+    <link href="{% static 'css/jquery-ui.css' %}" rel="stylesheet">
+    <link href="{% static 'sass/style.css' %}" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+        integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+
+<body>
+
+    <!-- start page-wrapper -->
+    <div class="page-wrapper">
+       <!-- start preloader -->
+        <div class="preloader">
+            <div class="vertical-centered-box">
+                <div class="content">
+                    <div class="loader-circle"></div>
+                    <div class="loader-line-mask">
+                        <div class="loader-line"></div>
+                    </div>
+                    <img src="{% static 'images/varmala-logo.png' %} " alt="">
+                </div>
+            </div>
+        </div>
+        <!-- end preloader -->
+       <!-- Start header -->
+        <header id="header">
+            <div class="wpo-site-header wpo-header-style-3">
+                <nav class="navigation navbar navbar-expand-lg navbar-light">
+                    <div class="container-fluid">
+                        <div class="row align-items-center">
+                            <div class="col-lg-3 col-md-3 col-3 d-lg-none dl-block">
+                                <div class="mobail-menu">
+                                    <button type="button" class="navbar-toggler open-btn">
+                                        <span class="sr-only">Toggle navigation</span>
+                                        <span class="icon-bar first-angle"></span>
+                                        <span class="icon-bar middle-angle"></span>
+                                        <span class="icon-bar last-angle"></span>
+                                    </button>
+                                </div>
+                            </div>
+                            <div class="col-lg-2 col-md-6 col-6">
+                                <div class="navbar-header">
+                                     <a class="navbar-brand" href="{% url 'home' %}"> <img width="120px" height="100px" src="{% static 'images/varmala-logo.png' %} " alt=""></a>
+                                </div>
+                            </div>
+                            <div class="col-lg-8 col-md-1 col-1">
+                                <div id="navbar" class="collapse navbar-collapse navigation-holder">
+                                    <button class="menu-close"><i class="ti-close"></i></button>
+                                    <ul class="nav navbar-nav mb-2 mb-lg-0">
+                                        <li class="menu-item-has-children">
+                                            <a href="{%url 'home'%}">Home</a>
+                                        </li>
+                                        <li><a class="" href="{% url 'about' %}">About</a></li>
+                                        <li><a href="{% url 'services' %}">Services</a></li>
+                                        <li class="menu-item-has-children">
+                                            <a href="#">Pages</a>
+                                            <ul class="sub-menu">
+                                                <li><a href="{% url 'about' %}">About</a></li>
+                                                <li><a href="{% url 'services' %}">Services</a></li>
+                                                <li><a href="{% url 'why_choose' %}">Why Choose US</a></li>
+                                                <li><a class="active" href="{% url 'pricing' %}">Pricing</a></li>
+                                                <li><a href="{% url 'gallery' %}">Gallery</a></li>
+                                                <li><a href="{% url 'blog' %}">Blogs</a></li>
+                                             </ul>
+                                        </li>
+                                       <li><a href="{% url 'contact' %}">Contact</a></li>
+                                        <li class="menu-item-has-children">
+                                            <a  href="{% url 'blog' %}">Blog</a>
+                                            </li>
+                                    </ul>
+
+                                </div><!-- end of nav-collapse -->
+                            </div>
+                           <div class="col-lg-2 col-md-2 col-2">
+                                <div class="header-right">
+                                    <div class="header-search-form-wrapper">
+                                        <div class="cart-search-contact">
+                                            <a href="tel:+919555495454">
+                                                <i style="font-size: 20px; color: black;" class="fas fa-phone"></i>
+                                            </a>
+                                            
+                                        </div>
+                                    </div>
+                                    <div class="mini-cart">
+                                         <button class="cart-toggle-btn"><a href="https://wa.me/919555495454"
+                                                target="_blank">
+                                                <i style="font-size: 23px; color: black;" class="fab fa-whatsapp"></i>
+                                            </a>
+                                        </button>
+                                       
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div><!-- end of container -->
+                </nav>
+            </div>
+        </header>
+        <!-- end of header -->
+        <!-- start wpo-page-title -->
+        <section class="wpo-page-title">
+            <div class="container">
+                <div class="row">
+                    <div class="col col-xs-12">
+                        <div class="wpo-breadcumb-wrap">
+                            <h2>Pricing</h2>
+                            <ol class="wpo-breadcumb-wrap">
+                                <li><a href="{% url 'home' %}">Home</a></li>
+                                <li>Pricing</li>
+                            </ol>
+                        </div>
+                    </div>
+                </div> <!-- end row -->
+            </div> <!-- end container -->
+        </section>
+        <!-- end page-title -->
+                <!-- start wpo-pricing-section -->
+        <section class="wpo-pricing-section section-padding">
+            <div class="container">
+                <div class="wpo-section-title">
+                    <span>Best Pricing</span>
+                    <h2> Packages & Pricing – Royal Wedding Planning in Jaipur</h2>
+                </div>
+                <div class="wpo-pricing-wrap">
+                    <div class="row">
+                        <div class="col col-lg-4 col-md-6 col-12">
+                            <div class="wpo-pricing-item">
+                                <div class="wpo-pricing-item-inner">
+                                    <div class="wpo-pricing-top">
+                                        <div class="wpo-pricing-text">
+                                            <h4>Basic Package</h4>
+                                            <h2><small>₹</small>{{Pricing.basic_plan}}</h2>
+                                        </div>
+                                    </div>
+                                    <div class="wpo-pricing-bottom">
+                                        <div class="wpo-pricing-bottom-text">
+                                            <ul>
+                                                <li>Venue assistance (banquet/lawn)</li>
+                                                <li>Traditional stage décor</li>
+                                                <li>Haldi/Mehndi setup</li>
+                                                <li>Photography (1 day)</li>
+                                                <li>Event coordinator</li>
+                                            </ul>
+                                            <a class="theme-btn" href="{% url 'contact' %}">Book Now</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col col-lg-4 col-md-6 col-12">
+                            <div class="wpo-pricing-item">
+                                <div class="wpo-pricing-item-inner">
+                                    <div class="wpo-pricing-top">
+                                        <div class="wpo-pricing-text">
+                                            <h4>Premium Package</h4>
+                                            <h2><small>₹</small>{{Pricing.premium_plan}}</h2>
+                                        </div>
+                                    </div>
+                                    <div class="wpo-pricing-bottom">
+                                        <div class="wpo-pricing-bottom-text">
+                                            <ul>
+                                                <li>Venue booking support (resort/hotel)</li>
+                                                <li>Full themed décor (Haldi, Mehndi, Wedding)</li>
+                                                <li>Bride-Groom Entry setup</li>
+                                                <li>2-day photography & video shoot</li>
+                                                <li>Folk + DJ entertainment</li>
+                                            </ul>
+                                           <a class="theme-btn" href="{% url 'contact' %}">Book Now</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="shape-1"><img src="assets/images/pricing/shape-1.svg" alt=""></div>
+                                <div class="shape-2"><img src="assets/images/pricing/shape-2.svg" alt=""></div>
+                            </div>
+                        </div>
+                        <div class="col col-lg-4 col-md-6 col-12">
+                            <div class="wpo-pricing-item">
+                                <div class="wpo-pricing-item-inner">
+                                    <div class="wpo-pricing-top">
+                                        <div class="wpo-pricing-text">
+                                            <h4>Luxary Package</h4>
+                                            <h2><small>₹</small>{{Pricing.luxery_plan}}</h2>
+                                        </div>
+                                    </div>
+                                    <div class="wpo-pricing-bottom">
+                                        <div class="wpo-pricing-bottom-text">
+                                            <ul>
+                                                <li>Heritage venue planning (Udaipur, Jaipur, Pushkar)</li>
+                                                <li>3-day full décor & theme styling</li>
+                                                <li>Complete guest logistics & hospitality</li>
+                                                <li>Drone, cinematic wedding films</li>
+                                                <li>Folk acts, live Sufi night, fireworks</li>
+                                            </ul>
+                                            <a class="theme-btn" href="{% url 'contact' %}">Book Now</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="left-shape"><img src="{% static 'images/pricing/shape-3.svg' %} " alt=""></div>
+            <div class="right-shape"><img src="{% static 'images/pricing/shape-4.svg' %}" alt=""></div>
+        </section>
+        <!-- start wpo-pricing-section -->
+
+
+        <!-- start wpo-partners-section -->
+        <section class="wpo-partners-section section-padding pt-0">
+            <h2 class="hidden">Partners</h2>
+            <div class="container">
+                <div class="row">
+                    <div class="col col-xs-12">
+                        <div class="partner-grids partners-slider owl-carousel">
+                            <div class="grid">
+                               <img src="{% static 'images/about/barat.png' %}" alt="">
+                            </div>
+                            <div class="grid">
+                                <img src="{% static 'images/about/barat.png' %}" alt="">
+                            </div>
+                            <div class="grid">
+                                <img src="{% static 'images/about/barat.png' %}" alt="">
+                            </div>
+                            <div class="grid">
+                                <img src="{% static 'images/about/barat.png' %}" alt="">
+                            </div>
+                            <div class="grid">
+                                <img src="{% static 'images/about/barat.png' %}" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div> <!-- end container -->
+        </section>
+        <!-- end wpo-partners-section-->
+
+        <!-- start of wpo-site-footer-section -->
+        <footer class="wpo-site-footer-s2">
+            <div class="wpo-upper-footer">
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col col-xl-3  col-lg-4 col-md-6 col-sm-12 col-12">
+                            <div class="widget link-widget">
+                                <div class="widget-title">
+                                    <h3>Links</h3>
+                                </div>
+                                <div class="link-wrap">
+                                    <ul>
+                                         <li><a href="{% url 'about' %}">About</a></li>
+                                         <li><a href="{% url 'services' %}">Services</a></li>
+                                        <li><a href="{% url 'pricing' %}">Pricing</a></li>
+                                    </ul>
+                                    <ul>
+                                        <li><a href="{% url 'gallery' %}">Gallery</a></li>
+                                        <li><a href="{% url 'blog' %}">Blogs</a></li>
+                                        <li><a href="{% url 'contact' %}">Contact</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col col-xl-6 col-lg-4 col-md-6 col-sm-12 col-12">
+                            <div class="widget about-widget">
+                                <div class="logo widget-title">
+                                    <a class="navbar-brand" href="{% url 'home' %}"> <img width="120px" height="100px" src="{% static 'images/varmala-logo.png' %} " alt=""></a>
+                                </div>
+                                <p>Varmala – Your Royal Wedding Partner</p>
+                                <ul>
+                                
+                                    <li>
+                                        <a href="https://www.instagram.com/varmala_wedding?igsh=MWx5c3ZnaXR4NWpjcQ%3D%3D&utm_source=qr">
+                                            <i class="ti-instagram"></i>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="col col-xl-3  col-lg-4 col-md-6 col-sm-12 col-12">
+                            <div class="widget wpo-service-link-widget">
+                                <div class="widget-title">
+                                    <h3>Contact </h3>
+                                </div>
+                                <div class="contact-ft">
+                                    <p>Call Now: <a href=""><a href="tel:9555495454">9555495454</a></a></p>
+                                    <p>Varmala.com</p>
+                                    <p>Khatipura, Jaipur, Rajasthan 302012</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div> <!-- end container -->
+            </div>
+            <div class="wpo-lower-footer">
+                <div class="container">
+                    <div class="row">
+                        <div class="col col-xs-12">
+                            <p class="copyright"> � Copyright 2025 | <a href="{% url 'home' %}">Varmala</a> | All right
+                                reserved.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="ft-shape-1">
+                <img src=" {% static 'images/footer-shape-1.svg' %}" alt="">
+            </div>
+            <div class="ft-shape-2">
+                <img src="{% static 'images/footer-shape-2.svg' %}" alt="">
+            </div>
+        </footer>
+        <!-- end of wpo-site-footer-section -->
+        <!-- color-switcher -->
+        <div class="color-switcher-wrap">
+            <div class="color-switcher-item">
+                <div class="color-toggle-btn">
+                    <i class="fa fa-cog"></i>
+                </div>
+                <ul id="switcher">
+                    <li class="btn btn1" id="Button1"></li>
+                    <li class="btn btn2" id="Button2"></li>
+                    <li class="btn btn3" id="Button3"></li>
+                    <li class="btn btn4" id="Button4"></li>
+                    <li class="btn btn5" id="Button5"></li>
+                    <li class="btn btn6" id="Button6"></li>
+                    <li class="btn btn7" id="Button7"></li>
+                    <li class="btn btn8" id="Button8"></li>
+                    <li class="btn btn9" id="Button9"></li>
+                    <li class="btn btn10" id="Button10"></li>
+                    <li class="btn btn11" id="Button11"></li>
+                    <li class="btn btn12" id="Button12"></li>
+                    <li class="btn btn13" id="Button13"></li>
+                    <li class="btn btn14" id="Button14"></li>
+                    <li class="btn btn15" id="Button15"></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!-- end of page-wrapper -->
+
+   <!-- All JavaScript files -->
+<script src="{% static 'js/jquery.min.js' %}"></script>
+<script src="{% static 'js/bootstrap.bundle.min.js' %}"></script>
+
+<!-- Plugins for this template -->
+<script src="{% static 'js/modernizr.custom.js' %}"></script>
+<script src="{% static 'js/jquery-plugin-collection.js' %}"></script>
+
+<!-- Custom script for this template -->
+<script src="{% static 'js/script.js' %}"></script>
+
+
+</body>
+
+</html>

@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="wpOceans">
+    <link rel="shortcut icon" href="{% static 'images/varmala-logo.png' %}" type="image/x-icon">
+    <title>Varmala Events</title>
+    <link href="{% static 'css/themify-icons.css' %}" rel="stylesheet">
+    <link href="{% static 'css/font-awesome.min.css' %}" rel="stylesheet">
+    <link href="{% static 'css/flaticon.css' %}" rel="stylesheet">
+    <link href="{% static 'css/bootstrap.min.css' %}" rel="stylesheet">
+    <link href="{% static 'css/animate.css' %}" rel="stylesheet">
+    <link href="{% static 'css/owl.carousel.css' %}" rel="stylesheet">
+    <link href="{% static 'css/owl.theme.css' %}" rel="stylesheet">
+    <link href="{% static 'css/slick.css' %}" rel="stylesheet">
+    <link href="{% static 'css/slick-theme.css' %}" rel="stylesheet">
+    <link href="{% static 'css/swiper.min.css' %}" rel="stylesheet">
+    <link href="{% static 'css/nice-select.css' %}" rel="stylesheet">
+    <link href="{% static 'css/owl.transitions.css' %}" rel="stylesheet">
+    <link href="{% static 'css/jquery.fancybox.css' %}" rel="stylesheet">
+    <link href="{% static 'css/odometer-theme-default.css' %}" rel="stylesheet">
+    <link href="{% static 'css/jquery-ui.css' %}" rel="stylesheet">
+    <link href="{% static 'sass/style.css' %}" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+        integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+
+<body>
+
+    <!-- start page-wrapper -->
+    <div class="page-wrapper">
+      <!-- start preloader -->
+        <div class="preloader">
+            <div class="vertical-centered-box">
+                <div class="content">
+                    <div class="loader-circle"></div>
+                    <div class="loader-line-mask">
+                        <div class="loader-line"></div>
+                    </div>
+                    <img src="{% static 'images/varmala-logo.png' %} " alt="">
+                </div>
+            </div>
+        </div>
+        <!-- end preloader -->
+        <!-- Start header -->
+        <header id="header">
+            <div class="wpo-site-header wpo-header-style-3">
+                <nav class="navigation navbar navbar-expand-lg navbar-light">
+                    <div class="container-fluid">
+                        <div class="row align-items-center">
+                            <div class="col-lg-3 col-md-3 col-3 d-lg-none dl-block">
+                                <div class="mobail-menu">
+                                    <button type="button" class="navbar-toggler open-btn">
+                                        <span class="sr-only">Toggle navigation</span>
+                                        <span class="icon-bar first-angle"></span>
+                                        <span class="icon-bar middle-angle"></span>
+                                        <span class="icon-bar last-angle"></span>
+                                    </button>
+                                </div>
+                            </div>
+                            <div class="col-lg-2 col-md-6 col-6">
+                                <div class="navbar-header">
+                                     <a class="navbar-brand" href="{% url 'home' %}"> <img width="120px" height="100px" src="{% static 'images/varmala-logo.png' %} " alt=""></a>
+                                </div>
+                            </div>
+                            <div class="col-lg-8 col-md-1 col-1">
+                                <div id="navbar" class="collapse navbar-collapse navigation-holder">
+                                    <button class="menu-close"><i class="ti-close"></i></button>
+                                    <ul class="nav navbar-nav mb-2 mb-lg-0">
+                                        <li class="menu-item-has-children">
+                                            <a href="{%url 'home'%}">Home</a>
+                                        </li>
+                                        <li><a class="" href="{% url 'about' %}">About</a></li>
+                                        <li><a href="{% url 'services' %}">Services</a></li>
+                                        <li class="menu-item-has-children">
+                                            <a href="{%url 'home'%}">Pages</a>
+                                            <ul class="sub-menu">
+                                                <li><a href="{% url 'about' %}">About</a></li>
+                                                <li><a href="{% url 'services' %}">Services</a></li>
+                                                <li><a class="active" href="{% url 'why_choose' %}">Why Choose US</a></li>
+                                                <li><a href="{% url 'pricing' %}">Pricing</a></li>
+                                                <li><a href="{% url 'gallery' %}">Gallery</a></li>
+                                                <li><a href="{% url 'blog' %}">Blogs</a></li>
+                                             </ul>
+                                        </li>
+                                       <li><a href="{% url 'contact' %}">Contact</a></li>
+                                        <li class="menu-item-has-children">
+                                            <a class="active" href="{% url 'blog' %}">Blog</a>
+                                            </li>
+                                    </ul>
+
+                                </div><!-- end of nav-collapse -->
+                            </div>
+                           <div class="col-lg-2 col-md-2 col-2">
+                                <div class="header-right">
+                                    <div class="header-search-form-wrapper">
+                                        <div class="cart-search-contact">
+                                            <a href="tel:+919555495454">
+                                                <i style="font-size: 20px; color: black;" class="fas fa-phone"></i>
+                                            </a>
+                                            
+                                        </div>
+                                    </div>
+                                    <div class="mini-cart">
+                                         <button class="cart-toggle-btn"><a href="https://wa.me/919555495454"
+                                                target="_blank">
+                                                <i style="font-size: 23px; color: black;" class="fab fa-whatsapp"></i>
+                                            </a>
+                                        </button>
+                                       
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div><!-- end of container -->
+                </nav>
+            </div>
+        </header>
+        <!-- end of header -->
+        <!-- start wpo-page-title -->
+        <section class="wpo-page-title">
+            <div class="container">
+                <div class="row">
+                    <div class="col col-xs-12">
+                        <div class="wpo-breadcumb-wrap">
+                            <h2>Why Choose Us</h2>
+                            <ol class="wpo-breadcumb-wrap">
+                                <li><a href="index.html">Home</a></li>
+                                <li>Why Choose Us</li>
+                            </ol>
+                        </div>
+                    </div>
+                </div> <!-- end row -->
+            </div> <!-- end container -->
+        </section>
+        <!-- end page-title -->
+        <!-- start wpo-story-section -->
+        <section class="wpo-story-section-s2 section-padding" id="story">
+            <div class="container">
+
+                <div class="wpo-story-wrap">
+
+                    <!-- why choose us -->
+                    <div class="wpo-section-title">
+                        <span>Why Choose Varmala Events?</span>
+                        <h2>Varmala Events</h2>
+                    </div>
+                    <div class="wpo-story-item">
+                        <div class="row">
+                            <div class="col col-lg-6 col-12 order-lg-2 order-1">
+                                <div class="wpo-story-img">
+                                    <img src="{{Why_Choose.why_choose_img.url}}"
+                                        alt="">
+                                </div>
+                            </div>
+                            <div class="col col-lg-6 col-12 order-lg-1 order-2">
+                                <div class="wpo-story-content wow flipInX" data-wow-duration="1000ms">
+                                    <div class="thumb">
+                                        <span>Varmala
+                                            <br>
+                                            Events
+                                        </span>
+                                        <div class="pin">
+                                            <img src="assets/images/story/pin.svg" alt="">
+                                        </div>
+                                    </div>
+                                    <h2>{{Why_Choose.why_choose_h2}}</h2>
+                                    <p>{{Why_Choose.why_choose_p}}</p>
+                                    <p>Book with confidence. Celebrate with royalty.</p>
+                                     <ul>
+                                        <li>
+                                            <p>500+ Royal Weddings – Trusted across Jaipur, Udaipur
+                                            </p>
+                                        </li>
+                                        <li>
+                                            <p>Top Heritage Venues – Forts, Havelis & Luxury Resorts access.</p>
+                                        </li>
+                                        <li>
+                                            <p>Rajwada Décor Experts – Bandhej, Gota Patti, Shahi Mandaps.</p>
+                                        </li>
+                                        <li>
+                                            <p>Live Folk Entertainment – Ghoomar, Kalbeliya, Shehnai, Puppet Shows.</p>
+                                        </li>
+                                        <li>
+                                            <p>Cinematic Photography – Every moment beautifully captured.</p>
+                                        </li>
+                                        <li>
+                                            <p>Complete Wedding Planning – From varmala to vidaai</p>
+                                        </li>
+                                        <li>
+                                            <p>Custom Plans + Timely Delivery – Personalized & punctual execution.</p>
+                                        </li>
+                                        <li>
+                                            <p>Top-Rated Since 2023 – Jaipur’s trusted wedding planners.</p>
+                                        </li>
+                                    </ul>
+                                    <div class="flower">
+                                        <img src="assets/images/story/flower-2.svg" alt="">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="ring-wrap">
+                           <div class="ring"><img src="{% static 'images/story/ring.svg' %}" alt=""></div>
+                            <div class="ring"><img src="{% static 'images/story/ring.svg' %}" alt=""></div>
+                            <div class="ring"><img src="{% static 'images/story/ring.svg' %}" alt=""></div>
+                            <div class="ring"><img src="{% static 'images/story/ring.svg' %}" alt=""></div>
+                            <div class="ring"><img src="{% static 'images/story/ring.svg' %}" alt=""></div>
+                            <div class="ring"><img src="{% static 'images/story/ring.svg' %}" alt=""></div>
+                            <div class="ring"><img src="{% static 'images/story/ring.svg' %}" alt=""></div>
+                            <div class="ring"><img src="{% static 'images/story/ring.svg' %}" alt=""></div>
+                            <div class="ring"><img src="{% static 'images/story/ring.svg' %}" alt=""></div>
+                            <div class="ring"><img src="{% static 'images/story/ring.svg' %}" alt=""></div>
+                            <div class="ring"><img src="{% static 'images/story/ring.svg' %}" alt=""></div>
+                            <div class="ring"><img src="{% static 'images/story/ring.svg' %}" alt=""></div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            <!-- end -->
+
+            <hr>
+            <!-- end container -->
+            <div class="flower-shape-1">
+                <img src="{% static 'images/story/flower-shape1.svg' %}" alt="">
+            </div>
+            <div class="flower-shape-2">
+                <img src="{% static 'images/story/flower-shape2.svg' %}" alt="">
+            </div>
+            <div class="flower-shape-3">
+                <img src="{% static 'images/story/flower-shape3.svg' %}" alt="">
+            </div>
+            <div class="flower-shape-4">
+                <img src="{% static 'images/story/flower-shape4.svg' %}" alt="">
+            </div>
+
+
+<!--Start wpo-testimonial-section-->
+        <section class="wpo-testimonial-section-s2 pb-0">
+            <div class="container">
+                <div class="wpo-testimonial-wrap">
+                    <div class="row">
+                        <div class="col col-lg-12">
+                            <div class="wpo-testimonial-items">
+                                <div class="wpo-section-title">
+                                    <span>Testimonials</span>
+                                    <h2>What Our Client Says</h2>
+                                </div>
+                                <div class="wpo-testimonial-active">
+                                    {% for review in Testimonial%}
+                                    <div class="wpo-testimonial-item">
+                                        <div class="wpo-testimonial-text">
+                                            <p>{{review.testimonial_paragraph}}</p>
+                                            <div class="wpo-testimonial-text-btm">
+                                                <div class="tsm-img">
+                                                    <img src=" {{review.testimonial_img.url}}" alt="">
+                                                </div>
+                                                <h3>{{review.testimonial_name}}</h3>
+                                                <span> {{review.created_at}}</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    {% endfor %}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--End wpo-testimonial-section-->
+        <br>
+
+
+
+            <!-- start wpo-partners-section -->
+            <section class="wpo-partners-section section-padding pt-0">
+                <h2 class="hidden">Partners</h2>
+                <div class="container">
+                    <div class="row">
+                        <div class="col col-xs-12">
+                            <div class="partner-grids partners-slider owl-carousel">
+                                <div class="grid">
+                                     <img src="{% static 'images/about/barat.png' %}" alt="">
+                                </div>
+                                <div class="grid">
+                                    <img src="{% static 'images/about/barat.png' %}" alt="">
+                                </div>
+                                <div class="grid">
+                                     <img src="{% static 'images/about/barat.png' %}" alt="">
+                                </div>
+                                <div class="grid">
+                                     <img src="{% static 'images/about/barat.png' %}" alt="">
+                                </div>
+                                <div class="grid">
+                                     <img src="{% static 'images/about/barat.png' %}" alt="">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div> <!-- end container -->
+            </section>
+            <!-- end wpo-partners-section-->
+        </section>
+        <!-- end story-section -->
+
+
+
+        <!-- start wpo-team-section -->
+        <section class="wpo-team-section section-padding pt-0">
+            <div class="container">
+                <br>
+                <div class="wpo-section-title">
+                    <span>Map</span>
+                    <h2>Varmala Events Location</h2>
+                </div>
+                <iframe
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d113831.69854684787!2d75.60722591640628!3d26.92758659999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x396db3b370e5a0cf%3A0xf5ead955d178f400!2sVarmala%20Weddings!5e0!3m2!1sen!2sin!4v1750163006789!5m2!1sen!2sin"
+                    width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+                    referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div> <!-- end container -->
+        </section>
+        <!-- end wpo-team-section -->
+
+
+
+
+       <!-- start of wpo-site-footer-section -->
+        <footer class="wpo-site-footer-s2">
+            <div class="wpo-upper-footer">
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col col-xl-3  col-lg-4 col-md-6 col-sm-12 col-12">
+                            <div class="widget link-widget">
+                                <div class="widget-title">
+                                    <h3>Links</h3>
+                                </div>
+                                <div class="link-wrap">
+                                    <ul>
+                                         <li><a href="{% url 'about' %}">About</a></li>
+                                         <li><a href="{% url 'services' %}">Services</a></li>
+                                        <li><a href="{% url 'pricing' %}">Pricing</a></li>
+                                    </ul>
+                                    <ul>
+                                        <li><a href="{% url 'gallery' %}">Gallery</a></li>
+                                        <li><a href="{% url 'blog' %}">Blogs</a></li>
+                                        <li><a href="{% url 'contact' %}">Contact</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col col-xl-6 col-lg-4 col-md-6 col-sm-12 col-12">
+                            <div class="widget about-widget">
+                                <div class="logo widget-title">
+                                    <a class="navbar-brand" href="{% url 'home' %}"> <img width="120px" height="100px" src="{% static 'images/varmala-logo.png' %} " alt=""></a>
+                                </div>
+                                <p>Varmala – Your Royal Wedding Partner</p>
+                                <ul>
+                                
+                                    <li>
+                                        <a href="https://www.instagram.com/varmala_wedding?igsh=MWx5c3ZnaXR4NWpjcQ%3D%3D&utm_source=qr">
+                                            <i class="ti-instagram"></i>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="col col-xl-3  col-lg-4 col-md-6 col-sm-12 col-12">
+                            <div class="widget wpo-service-link-widget">
+                                <div class="widget-title">
+                                    <h3>Contact </h3>
+                                </div>
+                                <div class="contact-ft">
+                                    <p>Call Now: <a href=""><a href="tel:9555495454">9555495454</a></a></p>
+                                    <p>Varmala.com</p>
+                                    <p>Khatipura, Jaipur, Rajasthan 302012</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div> <!-- end container -->
+            </div>
+            <div class="wpo-lower-footer">
+                <div class="container">
+                    <div class="row">
+                        <div class="col col-xs-12">
+                            <p class="copyright"> � Copyright 2025 | <a href="{% url 'home' %}">Varmala</a> | All right
+                                reserved.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="ft-shape-1">
+                <img src=" {% static 'images/footer-shape-1.svg' %}" alt="">
+            </div>
+            <div class="ft-shape-2">
+                <img src="{% static 'images/footer-shape-2.svg' %}" alt="">
+            </div>
+        </footer>
+        <!-- end of wpo-site-footer-section -->
+        <!-- color-switcher -->
+        <div class="color-switcher-wrap">
+            <div class="color-switcher-item">
+                <div class="color-toggle-btn">
+                    <i class="fa fa-cog"></i>
+                </div>
+                <ul id="switcher">
+                    <li class="btn btn1" id="Button1"></li>
+                    <li class="btn btn2" id="Button2"></li>
+                    <li class="btn btn3" id="Button3"></li>
+                    <li class="btn btn4" id="Button4"></li>
+                    <li class="btn btn5" id="Button5"></li>
+                    <li class="btn btn6" id="Button6"></li>
+                    <li class="btn btn7" id="Button7"></li>
+                    <li class="btn btn8" id="Button8"></li>
+                    <li class="btn btn9" id="Button9"></li>
+                    <li class="btn btn10" id="Button10"></li>
+                    <li class="btn btn11" id="Button11"></li>
+                    <li class="btn btn12" id="Button12"></li>
+                    <li class="btn btn13" id="Button13"></li>
+                    <li class="btn btn14" id="Button14"></li>
+                    <li class="btn btn15" id="Button15"></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!-- end of page-wrapper -->
+
+ 
+<!-- All JavaScript files -->
+<script src="{% static 'js/jquery.min.js' %}"></script>
+<script src="{% static 'js/bootstrap.bundle.min.js' %}"></script>
+
+<!-- Plugins for this template -->
+<script src="{% static 'js/modernizr.custom.js' %}"></script>
+<script src="{% static 'js/jquery-plugin-collection.js' %}"></script>
+
+<!-- Custom script for this template -->
+<script src="{% static 'js/script.js' %}"></script>
+
+</body>
+
+</html>

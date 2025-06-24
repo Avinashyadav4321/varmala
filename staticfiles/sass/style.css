@@ -938,7 +938,7 @@ a.ui-button:active, .ui-button:active,
 }
 
 .wpo-page-title {
-  background: url(../images/contact/var.jpg) no-repeat center center/cover;
+  background: url(..images/contact/back.jpg) no-repeat center center/cover;
   min-height: 360px;
   position: relative;
   display: -webkit-box;

@@ -1,4 +1,699 @@
-/* Tablets */
+>> 
+warning: in the working copy of 'staticfiles/admin/css/autocomplete.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/css/base.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/css/changelists.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/css/dark_mode.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/css/dashboard.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/css/forms.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/css/login.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/css/nav_sidebar.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/css/responsive.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/css/responsive_rtl.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/css/rtl.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/css/unusable_password_field.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/css/vendor/select2/LICENSE-SELECT2.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/css/vendor/select2/select2.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/css/vendor/select2/select2.min.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/css/widgets.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/img/LICENSE', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/img/README.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/img/calendar-icons.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/img/icon-addlink.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/img/icon-alert.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/img/icon-calendar.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/img/icon-changelink.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/img/icon-clock.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/img/icon-deletelink.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/img/icon-hidelink.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/img/icon-no.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/img/icon-unknown-alt.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/img/icon-unknown.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/img/icon-viewlink.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/img/icon-yes.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/img/inline-delete.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/img/search.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/img/selector-icons.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/img/sorting-icons.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/img/tooltag-add.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/img/tooltag-arrowright.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/SelectBox.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/SelectFilter2.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/actions.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/admin/DateTimeShortcuts.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/admin/RelatedObjectLookups.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/autocomplete.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/calendar.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/cancel.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/change_form.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/collapse.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/core.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/filters.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/inlines.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/jquery.init.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/nav_sidebar.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/popup_response.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/prepopulate.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/prepopulate_init.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/theme.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/unusable_password_field.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/urlify.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/jquery/LICENSE.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/jquery/jquery.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/jquery/jquery.min.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/LICENSE.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/af.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/ar.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/az.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/bg.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/bn.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/bs.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/ca.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/cs.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/da.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/de.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/dsb.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/el.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/en.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/es.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/et.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/eu.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/fa.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/fi.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/fr.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/gl.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/he.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/hi.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/hr.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/hsb.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/hu.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/hy.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/id.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/is.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/it.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/ja.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/ka.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/km.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/ko.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/lt.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/lv.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/mk.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/ms.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/nb.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/ne.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/nl.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/pl.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/ps.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/pt-BR.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/pt.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/ro.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/ru.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/sk.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/sl.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/sq.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/sr-Cyrl.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/sr.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/sv.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/th.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/tk.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/tr.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/uk.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/vi.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/zh-CN.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/i18n/zh-TW.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/select2.full.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/select2/select2.full.min.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/xregexp/LICENSE.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/xregexp/xregexp.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin/js/vendor/xregexp/xregexp.min.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin_interface/collapsible-inlines/collapsible-inlines.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin_interface/css/admin-interface.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin_interface/css/change-form.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin_interface/css/changelist.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin_interface/css/fieldsets.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin_interface/css/file-upload.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin_interface/css/header.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin_interface/css/inlines.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin_interface/css/jquery.ui.tabs.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin_interface/css/language-chooser.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin_interface/css/list-filter-dropdown.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin_interface/css/list-filter.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin_interface/css/login.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin_interface/css/modules.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin_interface/css/nav-sidebar.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin_interface/css/object-tools.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin_interface/css/paginator.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin_interface/css/recent-actions.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin_interface/css/rtl.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin_interface/css/sticky-form-controls.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin_interface/css/tabbed-changeform.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin_interface/css/third-party/ckeditor.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin_interface/css/third-party/import-export.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin_interface/css/third-party/json-widget.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin_interface/css/third-party/modeltranslation.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin_interface/css/third-party/rangefilter.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin_interface/css/third-party/sorl-thumbnail.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin_interface/css/third-party/streamfield.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin_interface/css/third-party/tabbed-admin.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin_interface/css/third-party/tinymce.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin_interface/css/widgets.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin_interface/favico/favico-0.3.10-patched.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin_interface/favico/favico-0.3.10-patched.min.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin_interface/foldable-apps/foldable-apps.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin_interface/foldable-apps/foldable-apps.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin_interface/magnific-popup/jquery.magnific-popup.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin_interface/magnific-popup/magnific-popup.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin_interface/related-modal/related-modal.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin_interface/related-modal/related-modal.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/admin_interface/tabbed-changeform/tabbed-changeform.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/ckeditor/ckeditor/skins/light/LICENSE', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/ckeditor/ckeditor/skins/light/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/ckeditor/ckeditor/skins/light/bower.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/ckeditor/ckeditor/skins/light/dialog.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/ckeditor/ckeditor/skins/light/editor.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/ckeditor/ckeditor/skins/light/editor_gecko.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/ckeditor/ckeditor/skins/light/editor_ie.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/ckeditor/ckeditor/skins/light/editor_ie7.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/ckeditor/ckeditor/skins/light/editor_ie8.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/ckeditor/ckeditor/skins/light/skin.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/colorfield/colorfield.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/colorfield/coloris/README.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/colorfield/coloris/coloris.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/colorfield/coloris/coloris.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/colorfield/coloris/coloris.min.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/colorfield/coloris/coloris.min.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/css/animate.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/css/bootstrap.min.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/css/flaticon.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/css/font-awesome.min.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/css/jquery-ui.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/css/jquery.fancybox.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/css/magnific-popup.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/css/nice-select.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/css/owl.carousel.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/css/slick-theme.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/css/slick.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/css/themify-icons.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/fonts/flaticon_7be827e199392bb56ae95dacf43f5036.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/fonts/fontawesome-webfont_v=4.6.3.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/fonts/slick.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/fonts/themify_-fvbane.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/blog/shape-1.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/blog/shape-2.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/couple/image-bg.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/couple/left.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/couple/mask-1.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/couple/mask-2.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/couple/right.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/couple/vector-1.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/couple/vector-2.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/error-404.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/footer-shape-1.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/footer-shape-2.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/funfact/1.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/funfact/2.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/funfact/3.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/funfact/4.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/login.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/logo-2.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/offer/shape.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/pricing/shape-1.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/pricing/shape-2.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/pricing/shape-3.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/pricing/shape-4.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/service/img-1.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/service/img-2.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/service/img-3.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/service/img-4.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/slider/corner1.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/slider/corner2.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/slider/corner3.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/slider/corner4.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/slider/musk.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/slider/rose.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/slider/shape1.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/slider/shape10.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/slider/shape11.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/slider/shape12.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/slider/shape13.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/slider/shape14.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/slider/shape15.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/slider/shape16.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/slider/shape17.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/slider/shape2.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/slider/shape3.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/slider/shape4.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/slider/shape5.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/slider/shape6.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/slider/shape7.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/slider/shape8.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/slider/shape9.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/slider/vector.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/story/flower-2.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/story/flower-shape1.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/story/flower-shape2.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/story/flower-shape3.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/story/flower-shape4.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/story/flower-shape5.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/story/flower-shape6.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/story/flower.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/story/pin.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/story/ring.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/team/mask-1.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/team/mask-2.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/team/mask-3.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/team/mask-4.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/testimonial/shape.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/testimonial/svg-1.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/testimonial/svg-2.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/testimonial/svg-3.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/images/testimonial/svg-4.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/js/bootstrap.bundle.min.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/js/jquery.pointparallax.min.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/js/modernizr.custom.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/js/moving-animation.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/sass/style.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/streamfield/admin_popup_response.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'staticfiles/streamfield/js/admin_popup_response.js', LF will be replaced by CRLF the next time Git touches it
+[main caece7a] Add deployment config files for Render
+ 411 files changed, 86404 insertions(+), 7 deletions(-)
+ create mode 100644 Website/Procfile
+ create mode 100644 staticfiles/admin/css/autocomplete.css
+ create mode 100644 staticfiles/admin/css/base.css
+ create mode 100644 staticfiles/admin/css/changelists.css
+ create mode 100644 staticfiles/admin/css/dark_mode.css
+ create mode 100644 staticfiles/admin/css/dashboard.css
+ create mode 100644 staticfiles/admin/css/forms.css
+ create mode 100644 staticfiles/admin/css/login.css
+ create mode 100644 staticfiles/admin/css/nav_sidebar.css
+ create mode 100644 staticfiles/admin/css/responsive.css
+ create mode 100644 staticfiles/admin/css/responsive_rtl.css
+ create mode 100644 staticfiles/admin/css/rtl.css
+ create mode 100644 staticfiles/admin/css/unusable_password_field.css
+ create mode 100644 staticfiles/admin/css/vendor/select2/LICENSE-SELECT2.md
+ create mode 100644 staticfiles/admin/css/vendor/select2/select2.css
+ create mode 100644 staticfiles/admin/css/vendor/select2/select2.min.css
+ create mode 100644 staticfiles/admin/css/widgets.css
+ create mode 100644 staticfiles/admin/img/LICENSE
+ create mode 100644 staticfiles/admin/img/README.txt
+ create mode 100644 staticfiles/admin/img/calendar-icons.svg
+ create mode 100644 staticfiles/admin/img/gis/move_vertex_off.svg
+ create mode 100644 staticfiles/admin/img/gis/move_vertex_on.svg
+ create mode 100644 staticfiles/admin/img/icon-addlink.svg
+ create mode 100644 staticfiles/admin/img/icon-alert.svg
+ create mode 100644 staticfiles/admin/img/icon-calendar.svg
+ create mode 100644 staticfiles/admin/img/icon-changelink.svg
+ create mode 100644 staticfiles/admin/img/icon-clock.svg
+ create mode 100644 staticfiles/admin/img/icon-deletelink.svg
+ create mode 100644 staticfiles/admin/img/icon-hidelink.svg
+ create mode 100644 staticfiles/admin/img/icon-no.svg
+ create mode 100644 staticfiles/admin/img/icon-unknown-alt.svg
+ create mode 100644 staticfiles/admin/img/icon-unknown.svg
+ create mode 100644 staticfiles/admin/img/icon-viewlink.svg
+ create mode 100644 staticfiles/admin/img/icon-yes.svg
+ create mode 100644 staticfiles/admin/img/inline-delete.svg
+ create mode 100644 staticfiles/admin/img/search.svg
+ create mode 100644 staticfiles/admin/img/selector-icons.svg
+ create mode 100644 staticfiles/admin/img/sorting-icons.svg
+ create mode 100644 staticfiles/admin/img/tooltag-add.svg
+ create mode 100644 staticfiles/admin/img/tooltag-arrowright.svg
+ create mode 100644 staticfiles/admin/js/SelectBox.js
+ create mode 100644 staticfiles/admin/js/SelectFilter2.js
+ create mode 100644 staticfiles/admin/js/actions.js
+ create mode 100644 staticfiles/admin/js/admin/DateTimeShortcuts.js
+ create mode 100644 staticfiles/admin/js/admin/RelatedObjectLookups.js
+ create mode 100644 staticfiles/admin/js/autocomplete.js
+ create mode 100644 staticfiles/admin/js/calendar.js
+ create mode 100644 staticfiles/admin/js/cancel.js
+ create mode 100644 staticfiles/admin/js/change_form.js
+ create mode 100644 staticfiles/admin/js/collapse.js
+ create mode 100644 staticfiles/admin/js/core.js
+ create mode 100644 staticfiles/admin/js/filters.js
+ create mode 100644 staticfiles/admin/js/inlines.js
+ create mode 100644 staticfiles/admin/js/jquery.init.js
+ create mode 100644 staticfiles/admin/js/nav_sidebar.js
+ create mode 100644 staticfiles/admin/js/popup_response.js
+ create mode 100644 staticfiles/admin/js/prepopulate.js
+ create mode 100644 staticfiles/admin/js/prepopulate_init.js
+ create mode 100644 staticfiles/admin/js/theme.js
+ create mode 100644 staticfiles/admin/js/unusable_password_field.js
+ create mode 100644 staticfiles/admin/js/urlify.js
+ create mode 100644 staticfiles/admin/js/vendor/jquery/LICENSE.txt
+ create mode 100644 staticfiles/admin/js/vendor/jquery/jquery.js
+ create mode 100644 staticfiles/admin/js/vendor/jquery/jquery.min.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/LICENSE.md
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/af.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/ar.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/az.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/bg.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/bn.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/bs.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/ca.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/cs.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/da.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/de.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/dsb.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/el.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/en.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/es.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/et.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/eu.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/fa.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/fi.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/fr.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/gl.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/he.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/hi.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/hr.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/hsb.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/hu.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/hy.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/id.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/is.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/it.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/ja.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/ka.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/km.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/ko.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/lt.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/lv.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/mk.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/ms.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/nb.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/ne.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/nl.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/pl.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/ps.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/pt-BR.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/pt.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/ro.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/ru.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/sk.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/sl.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/sq.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/sr-Cyrl.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/sr.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/sv.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/th.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/tk.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/tr.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/uk.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/vi.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/zh-CN.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/i18n/zh-TW.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/select2.full.js
+ create mode 100644 staticfiles/admin/js/vendor/select2/select2.full.min.js
+ create mode 100644 staticfiles/admin/js/vendor/xregexp/LICENSE.txt
+ create mode 100644 staticfiles/admin/js/vendor/xregexp/xregexp.js
+ create mode 100644 staticfiles/admin/js/vendor/xregexp/xregexp.min.js
+ create mode 100644 staticfiles/admin_interface/collapsible-inlines/collapsible-inlines.js
+ create mode 100644 staticfiles/admin_interface/css/admin-interface.css
+ create mode 100644 staticfiles/admin_interface/css/change-form.css
+ create mode 100644 staticfiles/admin_interface/css/changelist.css
+ create mode 100644 staticfiles/admin_interface/css/fieldsets.css
+ create mode 100644 staticfiles/admin_interface/css/file-upload.css
+ create mode 100644 staticfiles/admin_interface/css/header.css
+ create mode 100644 staticfiles/admin_interface/css/inlines.css
+ create mode 100644 staticfiles/admin_interface/css/jquery.ui.tabs.css
+ create mode 100644 staticfiles/admin_interface/css/language-chooser.css
+ create mode 100644 staticfiles/admin_interface/css/list-filter-dropdown.css
+ create mode 100644 staticfiles/admin_interface/css/list-filter.css
+ create mode 100644 staticfiles/admin_interface/css/login.css
+ create mode 100644 staticfiles/admin_interface/css/modules.css
+ create mode 100644 staticfiles/admin_interface/css/nav-sidebar.css
+ create mode 100644 staticfiles/admin_interface/css/object-tools.css
+ create mode 100644 staticfiles/admin_interface/css/paginator.css
+ create mode 100644 staticfiles/admin_interface/css/recent-actions.css
+ create mode 100644 staticfiles/admin_interface/css/rtl.css
+ create mode 100644 staticfiles/admin_interface/css/sticky-form-controls.css
+ create mode 100644 staticfiles/admin_interface/css/tabbed-changeform.css
+ create mode 100644 staticfiles/admin_interface/css/third-party/ckeditor.css
+ create mode 100644 staticfiles/admin_interface/css/third-party/import-export.css
+ create mode 100644 staticfiles/admin_interface/css/third-party/json-widget.css
+ create mode 100644 staticfiles/admin_interface/css/third-party/modeltranslation.css
+ create mode 100644 staticfiles/admin_interface/css/third-party/rangefilter.css
+ create mode 100644 staticfiles/admin_interface/css/third-party/sorl-thumbnail.css
+ create mode 100644 staticfiles/admin_interface/css/third-party/streamfield.css
+ create mode 100644 staticfiles/admin_interface/css/third-party/tabbed-admin.css
+ create mode 100644 staticfiles/admin_interface/css/third-party/tinymce.css
+ create mode 100644 staticfiles/admin_interface/css/widgets.css
+ create mode 100644 staticfiles/admin_interface/favico/favico-0.3.10-patched.js
+ create mode 100644 staticfiles/admin_interface/favico/favico-0.3.10-patched.min.js
+ create mode 100644 staticfiles/admin_interface/foldable-apps/foldable-apps.css
+ create mode 100644 staticfiles/admin_interface/foldable-apps/foldable-apps.js
+ create mode 100644 staticfiles/admin_interface/magnific-popup/jquery.magnific-popup.js
+ create mode 100644 staticfiles/admin_interface/magnific-popup/magnific-popup.css
+ create mode 100644 staticfiles/admin_interface/related-modal/related-modal.css
+ create mode 100644 staticfiles/admin_interface/related-modal/related-modal.js
+ create mode 100644 staticfiles/admin_interface/tabbed-changeform/tabbed-changeform.js
+ create mode 100644 staticfiles/ckeditor/ckeditor/skins/light/LICENSE
+ create mode 100644 staticfiles/ckeditor/ckeditor/skins/light/README.md
+ create mode 100644 staticfiles/ckeditor/ckeditor/skins/light/bower.json
+ create mode 100644 staticfiles/ckeditor/ckeditor/skins/light/dialog.css
+ create mode 100644 staticfiles/ckeditor/ckeditor/skins/light/editor.css
+ create mode 100644 staticfiles/ckeditor/ckeditor/skins/light/editor_gecko.css
+ create mode 100644 staticfiles/ckeditor/ckeditor/skins/light/editor_ie.css
+ create mode 100644 staticfiles/ckeditor/ckeditor/skins/light/editor_ie7.css
+ create mode 100644 staticfiles/ckeditor/ckeditor/skins/light/editor_ie8.css
+ create mode 100644 staticfiles/ckeditor/ckeditor/skins/light/icons.png
+ create mode 100644 staticfiles/ckeditor/ckeditor/skins/light/icons_hidpi.png
+ create mode 100644 staticfiles/ckeditor/ckeditor/skins/light/images/arrow.png
+ create mode 100644 staticfiles/ckeditor/ckeditor/skins/light/images/close.png
+ create mode 100644 staticfiles/ckeditor/ckeditor/skins/light/images/hidpi/close.png
+ create mode 100644 staticfiles/ckeditor/ckeditor/skins/light/images/hidpi/lock-open.png
+ create mode 100644 staticfiles/ckeditor/ckeditor/skins/light/images/hidpi/lock.png
+ create mode 100644 staticfiles/ckeditor/ckeditor/skins/light/images/hidpi/refresh.png
+ create mode 100644 staticfiles/ckeditor/ckeditor/skins/light/images/lock-open.png
+ create mode 100644 staticfiles/ckeditor/ckeditor/skins/light/images/lock.png
+ create mode 100644 staticfiles/ckeditor/ckeditor/skins/light/images/refresh.png
+ create mode 100644 staticfiles/ckeditor/ckeditor/skins/light/skin.js
+ create mode 100644 staticfiles/colorfield/colorfield.js
+ create mode 100644 staticfiles/colorfield/coloris/README.txt
+ create mode 100644 staticfiles/colorfield/coloris/coloris.css
+ create mode 100644 staticfiles/colorfield/coloris/coloris.js
+ create mode 100644 staticfiles/colorfield/coloris/coloris.min.css
+ create mode 100644 staticfiles/colorfield/coloris/coloris.min.js
+ create mode 100644 staticfiles/css/animate.css
+ create mode 100644 staticfiles/css/auth-pages.css
+ create mode 100644 staticfiles/css/bootstrap.min.css
+ create mode 100644 staticfiles/css/flaticon.css
+ create mode 100644 staticfiles/css/font-awesome.min.css
+ create mode 100644 staticfiles/css/jquery-ui.css
+ create mode 100644 staticfiles/css/jquery.fancybox.css
+ create mode 100644 staticfiles/css/magnific-popup.css
+ create mode 100644 staticfiles/css/nice-select.css
+ create mode 100644 staticfiles/css/odometer-theme-default.css
+ create mode 100644 staticfiles/css/owl.carousel.css
+ create mode 100644 staticfiles/css/owl.theme.css
+ create mode 100644 staticfiles/css/owl.transitions.css
+ create mode 100644 staticfiles/css/slick-theme.css
+ create mode 100644 staticfiles/css/slick.css
+ create mode 100644 staticfiles/css/swiper.min.css
+ create mode 100644 staticfiles/css/themify-icons.css
+ create mode 100644 staticfiles/fonts/flaticon_7be827e199392bb56ae95dacf43f5036.eot
+ create mode 100644 staticfiles/fonts/flaticon_7be827e199392bb56ae95dacf43f5036.svg
+ create mode 100644 staticfiles/fonts/flaticon_7be827e199392bb56ae95dacf43f5036.ttf
+ create mode 100644 staticfiles/fonts/flaticon_7be827e199392bb56ae95dacf43f5036.woff
+ create mode 100644 staticfiles/fonts/flaticon_7be827e199392bb56ae95dacf43f5036.woff2
+ create mode 100644 staticfiles/fonts/fontawesome-webfont.eot
+ create mode 100644 staticfiles/fonts/fontawesome-webfont_v=4.6.3.eot
+ create mode 100644 staticfiles/fonts/fontawesome-webfont_v=4.6.3.svg
+ create mode 100644 staticfiles/fonts/fontawesome-webfont_v=4.6.3.ttf
+ create mode 100644 staticfiles/fonts/fontawesome-webfont_v=4.6.3.woff
+ create mode 100644 staticfiles/fonts/fontawesome-webfont_v=4.6.3.woff2
+ create mode 100644 staticfiles/fonts/slick.eot
+ create mode 100644 staticfiles/fonts/slick.svg
+ create mode 100644 staticfiles/fonts/slick.ttf
+ create mode 100644 staticfiles/fonts/slick.woff
+ create mode 100644 staticfiles/fonts/themify.eot
+ create mode 100644 staticfiles/fonts/themify_-fvbane.eot
+ create mode 100644 staticfiles/fonts/themify_-fvbane.svg
+ create mode 100644 staticfiles/fonts/themify_-fvbane.ttf
+ create mode 100644 staticfiles/fonts/themify_-fvbane.woff
+ create mode 100644 staticfiles/images/about/about-img.webp
+ create mode 100644 staticfiles/images/about/about_page.jpg
+ create mode 100644 staticfiles/images/about/barat.png
+ create mode 100644 staticfiles/images/about/download.jpeg
+ create mode 100644 staticfiles/images/about/signature.png
+ create mode 100644 staticfiles/images/ajax-loader.gif
+ create mode 100644 staticfiles/images/at-single.jpg
+ create mode 100644 staticfiles/images/blog/ab.png
+ create mode 100644 staticfiles/images/blog/shape-1.svg
+ create mode 100644 staticfiles/images/blog/shape-2.svg
+ create mode 100644 staticfiles/images/couple/couple-flower.png
+ create mode 100644 staticfiles/images/couple/couple-mask.jpg
+ create mode 100644 staticfiles/images/couple/couple-shape-2.png
+ create mode 100644 staticfiles/images/couple/couple-shape.png
+ create mode 100644 staticfiles/images/couple/couple-shape2.png
+ create mode 100644 staticfiles/images/couple/image-bg.svg
+ create mode 100644 staticfiles/images/couple/left.svg
+ create mode 100644 staticfiles/images/couple/mask-1.svg
+ create mode 100644 staticfiles/images/couple/mask-2.svg
+ create mode 100644 staticfiles/images/couple/right.svg
+ create mode 100644 staticfiles/images/couple/vector-1.svg
+ create mode 100644 staticfiles/images/couple/vector-2.svg
+ create mode 100644 staticfiles/images/date-bg.png
+ create mode 100644 staticfiles/images/date.png
+ create mode 100644 staticfiles/images/date2.png
+ create mode 100644 staticfiles/images/error-404.svg
+ create mode 100644 staticfiles/images/fancybox/blank.gif
+ create mode 100644 staticfiles/images/fancybox/fancybox_loading.gif
+ create mode 100644 staticfiles/images/fancybox/fancybox_loading@2x.gif
+ create mode 100644 staticfiles/images/fancybox/fancybox_overlay.png
+ create mode 100644 staticfiles/images/fancybox/fancybox_sprite.png
+ create mode 100644 staticfiles/images/fancybox/fancybox_sprite@2x.png
+ create mode 100644 staticfiles/images/favicon.png
+ create mode 100644 staticfiles/images/footer-shape-1.svg
+ create mode 100644 staticfiles/images/footer-shape-2.svg
+ create mode 100644 staticfiles/images/funfact/1.svg
+ create mode 100644 staticfiles/images/funfact/2.svg
+ create mode 100644 staticfiles/images/funfact/3.svg
+ create mode 100644 staticfiles/images/funfact/4.svg
+ create mode 100644 staticfiles/images/login.svg
+ create mode 100644 staticfiles/images/logo-2.svg
+ create mode 100644 staticfiles/images/offer.jpg
+ create mode 100644 staticfiles/images/offer/shape.svg
+ create mode 100644 staticfiles/images/offer2.jpg
+ create mode 100644 staticfiles/images/offer3.jpg
+ create mode 100644 staticfiles/images/order/bg.png
+ create mode 100644 staticfiles/images/page-title.jpg
+ create mode 100644 staticfiles/images/partners/1.png
+ create mode 100644 staticfiles/images/partners/2.png
+ create mode 100644 staticfiles/images/partners/3.png
+ create mode 100644 staticfiles/images/partners/4.png
+ create mode 100644 staticfiles/images/partners/5.png
+ create mode 100644 staticfiles/images/preloader.gif
+ create mode 100644 staticfiles/images/pricing/shape-1.svg
+ create mode 100644 staticfiles/images/pricing/shape-2.svg
+ create mode 100644 staticfiles/images/pricing/shape-3.svg
+ create mode 100644 staticfiles/images/pricing/shape-4.svg
+ create mode 100644 staticfiles/images/select-icon.png
+ create mode 100644 staticfiles/images/select-icon2.png
+ create mode 100644 staticfiles/images/service/img-1.jpg
+ create mode 100644 staticfiles/images/service/img-1.svg
+ create mode 100644 staticfiles/images/service/img-2.jpg
+ create mode 100644 staticfiles/images/service/img-2.svg
+ create mode 100644 staticfiles/images/service/img-3.jpg
+ create mode 100644 staticfiles/images/service/img-3.svg
+ create mode 100644 staticfiles/images/service/img-4.jpg
+ create mode 100644 staticfiles/images/service/img-4.svg
+ create mode 100644 staticfiles/images/slider/bg-shape.png
+ create mode 100644 staticfiles/images/slider/coming.jpg
+ create mode 100644 staticfiles/images/slider/corner1.svg
+ create mode 100644 staticfiles/images/slider/corner2.svg
+ create mode 100644 staticfiles/images/slider/corner3.svg
+ create mode 100644 staticfiles/images/slider/corner4.svg
+ create mode 100644 staticfiles/images/slider/date-shape.png
+ create mode 100644 staticfiles/images/slider/frame.png
+ create mode 100644 staticfiles/images/slider/hero-1.jpg
+ create mode 100644 staticfiles/images/slider/hero-10.jpg
+ create mode 100644 staticfiles/images/slider/hero-11.jpg
+ create mode 100644 staticfiles/images/slider/hero-12.jpg
+ create mode 100644 staticfiles/images/slider/hero-13.jpg
+ create mode 100644 staticfiles/images/slider/hero-14.jpg
+ create mode 100644 staticfiles/images/slider/hero-15.jpg
+ create mode 100644 staticfiles/images/slider/hero-16.jpg
+ create mode 100644 staticfiles/images/slider/hero-17.jpg
+ create mode 100644 staticfiles/images/slider/hero-18.jpg
+ create mode 100644 staticfiles/images/slider/hero-19.jpg
+ create mode 100644 staticfiles/images/slider/hero-2.jpg
+ create mode 100644 staticfiles/images/slider/hero-20.jpg
+ create mode 100644 staticfiles/images/slider/hero-3.jpg
+ create mode 100644 staticfiles/images/slider/hero-4.jpg
+ create mode 100644 staticfiles/images/slider/hero-5.jpg
+ create mode 100644 staticfiles/images/slider/hero-6.jpg
+ create mode 100644 staticfiles/images/slider/hero-7.jpg
+ create mode 100644 staticfiles/images/slider/hero-8.jpg
+ create mode 100644 staticfiles/images/slider/hero-9.jpg
+ create mode 100644 staticfiles/images/slider/hero-bg2.png
+ create mode 100644 staticfiles/images/slider/hero-bg22.png
+ create mode 100644 staticfiles/images/slider/hero-bg3.png
+ create mode 100644 staticfiles/images/slider/hero4-flower.png
+ create mode 100644 staticfiles/images/slider/inner-1.jpg
+ create mode 100644 staticfiles/images/slider/inner-2.jpg
+ create mode 100644 staticfiles/images/slider/invitation-bg.jpg
+ create mode 100644 staticfiles/images/slider/invitation-bg2.jpg
+ create mode 100644 staticfiles/images/slider/musk.svg
+ create mode 100644 staticfiles/images/slider/rose.svg
+ create mode 100644 staticfiles/images/slider/rtl-shape.png
+ create mode 100644 staticfiles/images/slider/shape-vector.png
+ create mode 100644 staticfiles/images/slider/shape1.svg
+ create mode 100644 staticfiles/images/slider/shape10.svg
+ create mode 100644 staticfiles/images/slider/shape11.svg
+ create mode 100644 staticfiles/images/slider/shape12.svg
+ create mode 100644 staticfiles/images/slider/shape13.svg
+ create mode 100644 staticfiles/images/slider/shape14.svg
+ create mode 100644 staticfiles/images/slider/shape15.svg
+ create mode 100644 staticfiles/images/slider/shape16.svg
+ create mode 100644 staticfiles/images/slider/shape17.svg
+ create mode 100644 staticfiles/images/slider/shape2.svg
+ create mode 100644 staticfiles/images/slider/shape3.svg
+ create mode 100644 staticfiles/images/slider/shape4.svg
+ create mode 100644 staticfiles/images/slider/shape5.svg
+ create mode 100644 staticfiles/images/slider/shape6.svg
+ create mode 100644 staticfiles/images/slider/shape7.svg
+ create mode 100644 staticfiles/images/slider/shape8.svg
+ create mode 100644 staticfiles/images/slider/shape9.svg
+ create mode 100644 staticfiles/images/slider/vector.svg
+ create mode 100644 staticfiles/images/story/1.png
+ create mode 100644 staticfiles/images/story/2.png
+ create mode 100644 staticfiles/images/story/3.png
+ create mode 100644 staticfiles/images/story/flower-2.svg
+ create mode 100644 staticfiles/images/story/flower-shape1.svg
+ create mode 100644 staticfiles/images/story/flower-shape2.svg
+ create mode 100644 staticfiles/images/story/flower-shape3.svg
+ create mode 100644 staticfiles/images/story/flower-shape4.svg
+ create mode 100644 staticfiles/images/story/flower-shape5.svg
+ create mode 100644 staticfiles/images/story/flower-shape6.svg
+ create mode 100644 staticfiles/images/story/flower.svg
+ create mode 100644 staticfiles/images/story/frame-shape-1.png
+ create mode 100644 staticfiles/images/story/frame-shape-2.png
+ create mode 100644 staticfiles/images/story/pin.svg
+ create mode 100644 staticfiles/images/story/ring.svg
+ create mode 100644 staticfiles/images/story/s-shape1.png
+ create mode 100644 staticfiles/images/story/s-shape2.png
+ create mode 100644 staticfiles/images/story/s-shape3.png
+ create mode 100644 staticfiles/images/story/s-shape4.png
+ create mode 100644 staticfiles/images/story/s-shape5.png
+ create mode 100644 staticfiles/images/story/shape.png
+ create mode 100644 staticfiles/images/story/shape2.png
+ create mode 100644 staticfiles/images/story/shape3.png
+ create mode 100644 staticfiles/images/story/story-shape.png
+ create mode 100644 staticfiles/images/team/mask-1.svg
+ create mode 100644 staticfiles/images/team/mask-2.svg
+ create mode 100644 staticfiles/images/team/mask-3.svg
+ create mode 100644 staticfiles/images/team/mask-4.svg
+ create mode 100644 staticfiles/images/testimonial/shape.svg
+ create mode 100644 staticfiles/images/testimonial/svg-1.svg
+ create mode 100644 staticfiles/images/testimonial/svg-2.svg
+ create mode 100644 staticfiles/images/testimonial/svg-3.svg
+ create mode 100644 staticfiles/images/testimonial/svg-4.svg
+ create mode 100644 staticfiles/images/thank you.png
+ create mode 100644 staticfiles/images/ui-icons_444444_256x240.png
+ create mode 100644 staticfiles/images/ui-icons_555555_256x240.png
+ create mode 100644 staticfiles/images/varmala-logo.png
+ create mode 100644 staticfiles/images/wedding-date/1.png
+ create mode 100644 staticfiles/images/wedding-date/2.png
+ create mode 100644 staticfiles/images/wedding-date/3.png
+ create mode 100644 staticfiles/js/bootstrap.bundle.min.js
+ create mode 100644 staticfiles/js/jquery-plugin-collection.js
+ create mode 100644 staticfiles/js/jquery.min.js
+ create mode 100644 staticfiles/js/jquery.pointparallax.min.js
+ create mode 100644 staticfiles/js/modernizr.custom.js
+ create mode 100644 staticfiles/js/moving-animation.js
+ create mode 100644 staticfiles/js/script.js
+ create mode 100644 staticfiles/js/tilt.jquery.min.js
+ create mode 100644 staticfiles/sass/style.css
+ create mode 100644 staticfiles/streamfield/admin_popup_response.js
+ create mode 100644 staticfiles/streamfield/js/admin_popup_response.js
+fatal: The current branch main has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin main
+
+To have this happen automatically for branches without a tracking
+upstream, see 'push.autoSetupRemote' in 'git help config'.
+
+(myenv) PS C:\Users\Dell\OneDrive\Desktop\Varmala_Project_1> /* Tablets */
 
 input[type="submit"], button {
     -webkit-appearance: none;
